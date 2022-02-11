@@ -1,0 +1,4 @@
+fake-useragent
+beautifulsoup4
+requests
+Pillow
